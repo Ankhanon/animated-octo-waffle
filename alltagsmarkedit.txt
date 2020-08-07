@@ -1,3 +1,4 @@
+\n\
 <option value="!"></option> \n\
 <option value="+_+"></option> \n\
 <option value="-"></option> \n\
@@ -296,7 +297,7 @@
 <option value="alternative_costume"></option> \n\
 <option value="alukardtd"></option> \n\
 <option value="alwayspuft11"></option> \n\
-<option value="alya_césaire"></option> \n\
+<option value="alya_cÃ©saire"></option> \n\
 <option value="alyssa_ashcroft"></option> \n\
 <option value="alyx_vance"></option> \n\
 <option value="amagi_brilliant_park"></option> \n\
@@ -338,7 +339,7 @@
 <option value="amy_rose"></option> \n\
 <option value="amy_rouge"></option> \n\
 <option value="amy_sorel"></option> \n\
-<option value="amélie_lacroix"></option> \n\
+<option value="amÃ©lie_lacroix"></option> \n\
 <option value="ana_(overwatch)"></option> \n\
 <option value="ana_amari"></option> \n\
 <option value="anal"></option> \n\
@@ -2499,7 +2500,7 @@
 <option value="dragonaut"></option> \n\
 <option value="dragonite"></option> \n\
 <option value="dragontheshadows"></option> \n\
-<option value="dragon’s_crown"></option> \n\
+<option value="dragonÂ’s_crown"></option> \n\
 <option value="draphius"></option> \n\
 <option value="draphiusart"></option> \n\
 <option value="drasna"></option> \n\
@@ -3296,7 +3297,7 @@
 <option value="genital_piercing"></option> \n\
 <option value="genkung"></option> \n\
 <option value="genosaurer"></option> \n\
-<option value="gen’en_(sioherashi)"></option> \n\
+<option value="genÂ’en_(sioherashi)"></option> \n\
 <option value="gerald_styles_(g-spot)"></option> \n\
 <option value="geraldine_grundy"></option> \n\
 <option value="geralt"></option> \n\
@@ -6570,8 +6571,8 @@
 <option value="poki_lewd"></option> \n\
 <option value="pokilewd"></option> \n\
 <option value="pokilewd_(artist)"></option> \n\
-<option value="pokémon"></option> \n\
-<option value="pokémon_(species)"></option> \n\
+<option value="pokÃ©mon"></option> \n\
+<option value="pokÃ©mon_(species)"></option> \n\
 <option value="poland"></option> \n\
 <option value="polaroid"></option> \n\
 <option value="pole_dance"></option> \n\
@@ -9203,3 +9204,4 @@
 <option value="zuko"></option> \n\
 <option value="zumi"></option> \n\
 <option value="zzomp"></option> \n\
+<!-- This data list will be edited through javascript     --> \n\
