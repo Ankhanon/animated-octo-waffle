@@ -6,7 +6,6 @@
 <option value="00s"></option> \n\
 <option value="0byte"></option> \n\
 <option value="0xes"></option> \n\
-<option value="10boys"></option> \n\
 <option value="11boys"></option> \n\
 <option value="12boys"></option> \n\
 <option value="13boys"></option> \n\
