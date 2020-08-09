@@ -8715,16 +8715,12 @@
 <option value="v_signal"></option> \n\
 <option value="vagina"></option> \n\
 <option value="vagina_cutout"></option> \n\
-<option value="vagina_penetration"></option> \n\
 <option value="vagina_taped_open"></option> \n\
 <option value="vaginal_blood"></option> \n\
 <option value="vaginal_insertion"></option> \n\
 <option value="vaginal_juice_trail"></option> \n\
 <option value="vaginal_juices"></option> \n\
-<option value="vaginal_penetratio"></option> \n\
 <option value="vaginal_penetration"></option> \n\
-<option value="vaginal_penetrationbreasts"></option> \n\
-<option value="vaginal_penetrationthigh_highs"></option> \n\
 <option value="vaginal_piercing"></option> \n\
 <option value="vaginal_sex"></option> \n\
 <option value="vaginal{penetration"></option> \n\
