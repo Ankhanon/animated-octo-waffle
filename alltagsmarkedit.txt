@@ -11,9 +11,7 @@
 <option value="10boys"></option> \n\
 <option value="11boys"></option> \n\
 <option value="12boys"></option> \n\
-<option value="1377622"></option> \n\
 <option value="13boys"></option> \n\
-<option value="1460305"></option> \n\
 <option value="14boys"></option> \n\
 <option value="16:9_aspect_ratio"></option> \n\
 <option value="1980s"></option> \n\
