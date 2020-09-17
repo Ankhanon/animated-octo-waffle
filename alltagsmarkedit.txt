@@ -2,10 +2,7 @@
 <option value="!"></option> \n\
 <option value="!!"></option> \n\
 <option value="!?"></option> \n\
-<option value="(2)"></option> \n\
-<option value=")"></option> \n\
 <option value="+_+"></option> \n\
-<option value="+headband"></option> \n\
 <option value="-"></option> \n\
 <option value="///"></option> \n\
 <option value="00s"></option> \n\
