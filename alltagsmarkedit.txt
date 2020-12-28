@@ -13,7 +13,6 @@
 <option value="1980s"></option> \n\
 <option value="1boy"></option> \n\
 <option value="1girl"></option> \n\
-<option value="1boy"></option> \n\
 <option value="1futa"></option> \n\
 <option value="1perspective"></option> \n\
 <option value="1pov"></option> \n\
